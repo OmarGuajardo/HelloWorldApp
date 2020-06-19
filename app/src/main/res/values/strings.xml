@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Hello World App</string>
+    <string-array name="pre_sets">
+        <item>Preset 1</item>
+        <item>Preset 2</item>
+        <item>Preset 3</item>
+    </string-array>
+</resources>
